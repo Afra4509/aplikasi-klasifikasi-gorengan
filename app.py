@@ -536,7 +536,7 @@ with col2:
 # Footer
 st.markdown("""
 <div class="footer">
-    <p>man ic p5</p>
-    <p><small>Yaemiko aw aw aw</small></p>
+    <p>afra fadhma</p>
+    <p><small>sman2 pas</small></p>
 </div>
 """, unsafe_allow_html=True)
